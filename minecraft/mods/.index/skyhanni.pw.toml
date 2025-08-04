@@ -1,0 +1,16 @@
+filename = 'SkyHanni-4.0.0-mc1.8.9.jar'
+name = 'SkyHanni for Hypixel SkyBlock'
+side = 'client'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.8.9' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '240e9699bea341c460cdf74069cf2756c62b88cd27571631f2742ca087f9f9b31452a4d133da3dc2fdf829c3c468d78a4757cf1e9e323e6dbb6fd172afd4f0be'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/byNkmv5G/versions/GA7c3PmA/SkyHanni-4.0.0-mc1.8.9.jar'
+
+[update.modrinth]
+mod-id = 'byNkmv5G'
+version = 'GA7c3PmA'
